@@ -2,10 +2,10 @@
 // Projet réalisé en 2019 par Théo Gachet et Matéi Voillemier
 
 //pins moteurs
-int moteur1 = 0; //moteur gauche digital
-int moteur2 = 1; //moteur droit digital
 int enA = 0;     //moteur gauche analogique
 int enB = 0;     //moteur droit analogique
+int moteur1 = 0; //moteur gauche digital
+int moteur2 = 1; //moteur droit digital
 
 //pins capteurs
 int pinAnemometre;
