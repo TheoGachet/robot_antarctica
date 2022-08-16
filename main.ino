@@ -7,7 +7,7 @@ int moteur2 = 1; //moteur droit digital
 int enA = 0;     //moteur gauche analogique
 int enB = 0;     //moteur droit analogique
 
-//pins capteurs simples
+//pins capteurs
 int pinAnemometre;
 int pinBarometre;
 int pinThermometre;
